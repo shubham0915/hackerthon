@@ -1,0 +1,16 @@
+#video-call {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#video-call video {
+    width: 45%;
+    margin: 1%;
+}
+
+#video-call button {
+    width: 45%;
+    margin: 1%;
+}
